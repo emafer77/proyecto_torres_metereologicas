@@ -27,7 +27,7 @@ Este proyecto simula torres meteorológicas que generan datos climáticos en tie
 
 ```bash
 git clone https://github.com/emafer77/proyecto_torres_metereologicas.git
-cd proyecto-torres-meteorologicas
+cd proyecto_torres_meteorologicas
 ```
 
 ### 2. Crea y activa un entorno virtual (opcional pero recomendado)
