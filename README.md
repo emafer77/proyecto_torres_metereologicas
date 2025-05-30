@@ -26,7 +26,7 @@ Este proyecto simula torres meteorológicas que generan datos climáticos en tie
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/proyecto-torres-meteorologicas.git
+git clone https://github.com/emafer77/proyecto_torres_metereologicas.git
 cd proyecto-torres-meteorologicas
 ```
 
